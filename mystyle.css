@@ -17,7 +17,7 @@ yodatext{
 }
 
 body{
-	background-image: url("D:/College%20Year%202/Unit%2020/BoxEG/Images/1.png");
+	background-image: url("Images/1.png");
     height: 100%;
 	width:100%;
 	background-size:50%;
@@ -31,7 +31,7 @@ body{
 	 padding: 5px;
 	 border: 10px solid white;
 	 text-align: center;
-	 background-image: url("D:/College%20Year%202/Unit%2020/BoxEG/Images/gmagik.gif");
+	 background-image: url("Images/gmagik.gif");
 	 }
 
 #ez{
@@ -52,7 +52,7 @@ body{
 	position: absolute;
 	top: 120%; left: 45%;
 	text-align: center;
-	background-image: url("D:/College%20Year%202/Unit%2020/BoxEG/Images/jabbatom.gif");
+	background-image: url("Images/jabbatom.gif");
 	border-radius: 25%;
 	}
 	
@@ -74,7 +74,7 @@ body{
 	position: absolute;
 	top: 250%; left: 0%;
 	text-align: center;
-	background-image: url("D:/College%20Year%202/Unit%2020/BoxEG/Images/yoda.gif");
+	background-image: url("Images/yoda.gif");
 	}
 
 #yodatext{
@@ -97,5 +97,5 @@ body{
 	position: absolute;
 	top: 250%; right: 0%;
 	text-align: center;
-	background-image: url("D:/College%20Year%202/Unit%2020/BoxEG/Images/yoda.gif");
+	background-image: url("Images/yoda.gif");
 	}
